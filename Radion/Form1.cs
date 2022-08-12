@@ -33,7 +33,6 @@ namespace Radion
         private void Form1_Load(object sender, EventArgs e)
         {
             LoadData();
-            Radion.funnyThings.startThings();
 
             if (metroCheckBox1.Checked == true)
             {
